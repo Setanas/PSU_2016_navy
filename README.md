@@ -1,6 +1,10 @@
-TAN_S
-Battleship with two terminal on one PC communiting with signals.
+# Navy
+> TAN_S
+
+Battleship game with two terminals on one PC communicating with signals.
 Project in collaboration with Nicolas DEVIERS
+
+## Example
 First terminal : ./navy "name of the file with your ship's position".
 Second terminal : ./navy "pid of the first terminal" "name of the file with your ship's position".
 The map go from A1 to H7.
