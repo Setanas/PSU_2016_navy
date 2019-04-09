@@ -60,7 +60,7 @@ DESCRIPTION
 
 You can create your own ship file, to put your ships as you want. <br/>
 You can name it as you want and put the file in the folder "ships" <br/><br/>
-A line in the file muste have this format :
+A line in the file must have this format :
 ```
 {length}:{position 1}:{position 2}
 ```
